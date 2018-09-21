@@ -25,7 +25,7 @@ SECRET_KEY = 'hc$h%wayj_aq#2!7&av*jqu1cg9xdo4q!c-5y)73645e-p$(a9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost'. 'https://cryptic-hollows-63700.herokuapp.com']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'https://cryptic-hollows-63700.herokuapp.com']
 
 
 # Application definition
